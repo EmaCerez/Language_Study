@@ -20,6 +20,8 @@ for (pkg in packages) {
 
 # Comment so I can show commits to my friend
 
+# Second comment for my friend
+
 
 # ----------------------------------------------------- Language top families
 
